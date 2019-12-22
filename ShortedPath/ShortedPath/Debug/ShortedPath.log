@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BellmonFord.cpp
+  DijkstraAlgo.cpp
+  dllmain.cpp
+  FloydWarshall.cpp
+  Graph.cpp
+  KrushalAlgo.cpp
+  PrimsAlgo.cpp
+  ShortedPath.cpp
+  Generating Code...
+     Creating library C:\Users\Yash1861991\source\repos\ShortedPath\Debug\ShortedPath.lib and object C:\Users\Yash1861991\source\repos\ShortedPath\Debug\ShortedPath.exp
+  ShortedPath.vcxproj -> C:\Users\Yash1861991\source\repos\ShortedPath\Debug\ShortedPath.dll

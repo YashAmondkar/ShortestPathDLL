@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  DijkstraAlgo.cpp
+  Graph.cpp
+  KrushalAlgo.cpp
+  PrimsAlgo.cpp
+  ShortedPath.cpp
+  dllmain.cpp
+     Creating library C:\Users\Yash1861991\source\repos\ShortedPath\x64\Release\ShortedPath.lib and object C:\Users\Yash1861991\source\repos\ShortedPath\x64\Release\ShortedPath.exp
+  Generating code
+  121 of 268 functions (45.1%) were compiled, the rest were copied from previous compilation.
+    68 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ShortedPath.vcxproj -> C:\Users\Yash1861991\source\repos\ShortedPath\x64\Release\ShortedPath.dll
